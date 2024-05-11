@@ -12,15 +12,7 @@ function EducationForm({ data, onInputChange }) {
         onChange={onInputChange}
         required
       />
-      <Input
-        label="School / College Location"
-        className="mr-20"
-        name="instituteLocation"
-        placeholder="New Jersey"
-        value={data.instituteLocation}
-        onChange={onInputChange}
-        required
-      />
+
       <Input
         label="Degree"
         className="mr-20"

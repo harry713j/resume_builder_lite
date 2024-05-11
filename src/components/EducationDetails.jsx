@@ -14,7 +14,7 @@ function EducationDetails() {
   const [educationInfo, setEducationInfo] = useState([]);
   const [educationData, setEducationData] = useState({
     instituteName: "",
-    instituteLocation: "",
+
     degreeName: "",
     major: "",
     cgpa: "",
@@ -49,7 +49,7 @@ function EducationDetails() {
       setEducationInfo(updatedEducationInfo);
       setEducationData({
         instituteName: "",
-        instituteLocation: "",
+
         degreeName: "",
         major: "",
         cgpa: "",
@@ -69,7 +69,7 @@ function EducationDetails() {
       setEducationInfo(updatedEducationInfo);
       setEducationData({
         instituteName: "",
-        instituteLocation: "",
+
         degreeName: "",
         major: "",
         cgpa: "",
