@@ -30,15 +30,15 @@ Resume Lite React is an online resume builder application built using React. It 
 
 2. Install dependencies
 
-```
-npm install
-```
+   ```
+   npm install
+   ```
 
 3. Start development server
 
-```
-npm run dev
-```
+   ```
+   npm run dev
+   ```
 
 4. Open http://localhost:5173 to view in browser
 
