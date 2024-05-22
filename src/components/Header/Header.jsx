@@ -12,7 +12,7 @@ function Header() {
       <div className="flex justify-between items-center py-5">
         <div>
           <Link to="/">
-            <Logo width="150px" />
+            <Logo width="140px" />
           </Link>
         </div>
         <nav className="flex gap-16 items-center">
